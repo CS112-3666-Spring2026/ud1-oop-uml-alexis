@@ -16,6 +16,8 @@ The purpose of this unit deliverable is to help you start planning your final pr
     - Abstract class
     - Inner class
     - Custom exception
+  
+  ![alt text](image.png)
 
 ## Grading
 Remember we're following the EARN grading scale:
